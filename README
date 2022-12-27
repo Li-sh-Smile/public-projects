@@ -1,7 +1,8 @@
 开源测试工程
+测试环境    qt5.12.1 VS2017_64
 
 PATH:
-    1.  Meter   用Canvas绘制的汽车仪表    测试环境    qt5.12.1 VS2017_64
+    1.  Meter   用Canvas绘制的汽车仪表
     2.  Scales  用QQuickPaintedItem的Paint进行绘制，绘制刻度尺
-
+    3.  Hook    WinHook     windows鼠标键盘钩子
 	
